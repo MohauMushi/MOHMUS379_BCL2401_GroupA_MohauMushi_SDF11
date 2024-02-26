@@ -44,19 +44,15 @@ In this component, you will finish the project with a contact section and a comp
 
 # 🚦Installation and Setup
 ### Install dependencies
-npm install
 - npm install
 
 ### Start the development server with live preview using Browsersync
-npm run browsersync
 - npm run browsersync
 
 ### Compile Tailwind CSS
-npm run build
 - npm run build
 
 ### Compile Tailwind CSS minified
-npm run build-minify
 - npm run build-minify
 
 ## 📚 What I Learned
