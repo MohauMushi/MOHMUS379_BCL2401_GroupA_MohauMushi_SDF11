@@ -40,7 +40,7 @@ In this component, I've construct a section that showcases Cache Bank's impact t
 
 ## Component 5: Contact and Footer
 
-In this component, you will finish the project with a contact section and a comprehensive footer. The focus was on designing a contact section and footer that build trust and ensure compliance. The learning points included setting up effective and user-friendly contact details and including essential elements in the footer like privacy policy, terms of use, and social media links.
+In this component, I've finish the project with a contact section and a comprehensive footer. The focus was on designing a contact section and footer that build trust and ensure compliance. The learning points included setting up effective and user-friendly contact details and including essential elements in the footer like privacy policy, terms of use, and social media links.
 
 # 🚦Installation and Setup
 ### Install dependencies
@@ -54,6 +54,9 @@ In this component, you will finish the project with a contact section and a comp
 
 ### Compile Tailwind CSS minified
 - npm run build-minify
+
+### Challenges Faced
+The Responsiveness of the Navigation Bar, Like the most challenge was div tags, because the component 1 videos was very confusing at first when they nested divs inside another div. So that one thing was a challenge, but going through the video second time it became clear how to do them. Then at the end i managed to do it correctly. The other challenge was the first div as it didn't include the footer to be nested inside it, and the footer is outside the main div that consists of Navigation Bar, Hero-Endorsement, Features, Stats-Getting Started Section only. 
 
 ## 📚 What I Learned
 The need to include detailed information about the project setup and development environment, the significance of creating a responsive navigation bar and implementing mobile-first design principles, value of incorporating client endorsements and compelling content in the hero section of the landing page. The usage of Tailwind CSS to create visually appealing sections and understanding layout techniques and the importance of presenting the features of the project in an organized and visually attractive manner. The utilization of grid and Flexbox layouts for consistent design and using Tailwind classes for a cohesive look and construction of sections showcasing impact through statistics and including effective call-to-action sections.
