@@ -1,6 +1,14 @@
-/** @type {import('tailwindcss').Config} */
+
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}", // Include all files in the src directory
+    "./public/**/*.html", // Include all HTML files in the public directory
+  ],
+  // ...rest of your Tailwind configuration
+}/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}", 
+            "./public/**/*.html",],
   theme: {
     extend: {
       container: {
